@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="HowInterestingContent_description;VALUE" xml:space="preserve">
+    <value>Nakoľko záujímavý bol pre vás prezentovaný obsah?</value>
+  </data>
+  <data name="Satisfaction.Poor;VALUE" xml:space="preserve">
+    <value>Slabé</value>
+  </data>
+  <data name="Satisfaction.NeedsImprovement;VALUE" xml:space="preserve">
+    <value>Je potrebné zlepšiť</value>
+  </data>
+  <data name="Satisfaction.Satisfactory;VALUE" xml:space="preserve">
+    <value>Uspokojivé</value>
+  </data>
+  <data name="Satisfaction.VeryGood;VALUE" xml:space="preserve">
+    <value>Dobré</value>
+  </data>
+  <data name="Satisfaction.Exceptional;VALUE" xml:space="preserve">
+    <value>Veľmi dobré</value>
+  </data>
+  <data name="SpaceForImplementing_description;VALUE" xml:space="preserve">
+    <value>Vidíte reálny priestor a scenáre pre využitie botov v rámci trhu, na ktorom sa pohybujete?</value>
+  </data>
+  <data name="YesNo.Yes;VALUE" xml:space="preserve">
+    <value>Áno</value>
+  </data>
+  <data name="YesNo.No;VALUE" xml:space="preserve">
+    <value>Nie</value>
+  </data>
+  <data name="ExplainTopic_description;VALUE" xml:space="preserve">
+    <value>Ako hodnotíte schopnosť prednášajúceho vysvetliť tému?</value>
+  </data>
+  <data name="PresentingSkills_description;VALUE" xml:space="preserve">
+    <value>Ako hodnotíte prezentačné zručnosti pred?</value>
+  </data>
+  <data name="PresentationGeneral_description;VALUE" xml:space="preserve">
+    <value>Ako hodnotíte prezentáciu vo všeobecnosti?</value>
+  </data>
+  <data name="MostInteresting_description;VALUE" xml:space="preserve">
+    <value>Čo bola pre vás najzaujímavejšia časť prezentácie?</value>
+  </data>
+  <data name="SpaceForImpr_description;VALUE" xml:space="preserve">
+    <value>Kde vidíte priestor pre zlepšenie:</value>
+  </data>
+  <data name="message0;LIST" xml:space="preserve">
+    <value>Dobrý deň, Ďakujeme vám za účasť na prezentácii o botoch. Chcel by som vás požiadať o váš názor na prezentáciu môjho Stvoriteľa. (V prípade, že sa budete chcieť vrátiť na predchádzajúcu otázku, stačí zadať "späť")</value>
+  </data>
+  <data name="HowInterestingContent_terms;LIST" xml:space="preserve">
+    <value> zaujímave?; zaujimave;</value>
+  </data>
+  <data name="Satisfaction.Poor;LIST" xml:space="preserve">
+    <value>Poors?</value>
+  </data>
+  <data name="Satisfaction.NeedsImprovement;LIST" xml:space="preserve">
+    <value>potrebuje?;zlepsenie?;zlepšenie</value>
+  </data>
+  <data name="Satisfaction.Satisfactory;LIST" xml:space="preserve">
+    <value>satisfactorys?</value>
+  </data>
+  <data name="Satisfaction.VeryGood;LIST" xml:space="preserve">
+    <value>veľmi dobré; velmi dobre;</value>
+  </data>
+  <data name="Satisfaction.Exceptional;LIST" xml:space="preserve">
+    <value>výborné;vyborne;</value>
+  </data>
+  <data name="SpaceForImplementing_terms;LIST" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="YesNo.Yes;LIST" xml:space="preserve">
+    <value>áno?;ano</value>
+  </data>
+  <data name="YesNo.No;LIST" xml:space="preserve">
+    <value>nie</value>
+  </data>
+  <data name="message3;LIST" xml:space="preserve">
+    <value>Úžasné! Vyzerá to, že v budúcnosti nás bude viac.</value>
+  </data>
+  <data name="ExplainTopic_terms;LIST" xml:space="preserve">
+    <value>vysvetľuje?; témy?; vysvetľuje? témy?</value>
+  </data>
+  <data name="message5;LIST" xml:space="preserve">
+    <value>To je nedobré. Neskôr bude zdieľať prepojenie s vami tam, kde môžete nájsť nejaké ďalšie informácie.</value>
+  </data>
+  <data name="PresentingSkills_terms;LIST" xml:space="preserve">
+    <value>prezentacne zrucnosti; zručnosti</value>
+  </data>
+  <data name="message7;LIST" xml:space="preserve">
+    <value>Prosím, v neskoršom kroku poskytnite spätnú väzbu, čo by sa malo zlepšiť.</value>
+  </data>
+  <data name="PresentationGeneral_terms;LIST" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="MostInteresting_terms;LIST" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="MostInteresting_promptDefinition;LIST" xml:space="preserve">
+    <value>Čo bola pre vás najzaujímavejšie časť prezentácie? </value>
+  </data>
+  <data name="SpaceForImpr_terms;LIST" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="SpaceForImpr_promptDefinition;LIST" xml:space="preserve">
+    <value>Kde vidíte priestor na zlepšenie (obsah a prezentačné zručnosti)?</value>
+  </data>
+  <data name="EnumSelectOne;HowInterestingContent;SpaceForImplementing;ExplainTopic;PresentingSkills;PresentationGeneral;MostInteresting;SpaceForImpr;TEMPLATE" xml:space="preserve">
+    <value>{&amp;} {||}</value>
+  </data>
+  <data name="NotUnderstood;HowInterestingContent;SpaceForImplementing;ExplainTopic;PresentingSkills;PresentationGeneral;MostInteresting;SpaceForImpr;TEMPLATE" xml:space="preserve">
+    <value>Nerozumiem odpovedi "{0}".</value>
+  </data>
+</root>

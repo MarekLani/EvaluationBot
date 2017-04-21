@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="HowInterestingContent_description;VALUE" xml:space="preserve">
+    <value>Nakoľko záujímavý bol pre vás prezentovaný obsah?</value>
+  </data>
+  <data name="Satisfaction.Poor;VALUE" xml:space="preserve">
+    <value>Slabé</value>
+  </data>
+  <data name="Satisfaction.NeedsImprovement;VALUE" xml:space="preserve">
+    <value>Je potrebné zlepšiť</value>
+  </data>
+  <data name="Satisfaction.Satisfactory;VALUE" xml:space="preserve">
+    <value>Uspokojivé;uspokojive</value>
+  </data>
+  <data name="Satisfaction.VeryGood;VALUE" xml:space="preserve">
+    <value>Dobré</value>
+  </data>
+  <data name="Satisfaction.Exceptional;VALUE" xml:space="preserve">
+    <value>Veľmi dobré</value>
+  </data>
+  <data name="SpaceForImplementing_description;VALUE" xml:space="preserve">
+    <value>Vidíte reálny priestor a scenáre pre využitie botov v rámci trhu, na ktorom sa pohybujete?</value>
+  </data>
+  <data name="YesNo.Yes;VALUE" xml:space="preserve">
+    <value>Áno</value>
+  </data>
+  <data name="YesNo.No;VALUE" xml:space="preserve">
+    <value>Nie</value>
+  </data>
+  <data name="ExplainTopic_description;VALUE" xml:space="preserve">
+    <value>Ako hodnotíte schopnosť prednášajúceho vysvetliť tému?</value>
+  </data>
+  <data name="PresentingSkills_description;VALUE" xml:space="preserve">
+    <value>Ako hodnotíte prezentačné zručnosti prednášajúceho?</value>
+  </data>
+  <data name="PresentationGeneral_description;VALUE" xml:space="preserve">
+    <value>Ako hodnotíte prezentáciu vo všeobecnosti?</value>
+  </data>
+  <data name="MostInteresting_description;VALUE" xml:space="preserve">
+    <value>Čo bola pre vás najzaujímavejšia časť prezentácie?</value>
+  </data>
+  <data name="SpaceForImpr_description;VALUE" xml:space="preserve">
+    <value>Kde vidíte priestor pre zlepšenie:</value>
+  </data>
+  <data name="message0;LIST" xml:space="preserve">
+    <value>Dobrý deň, Ďakujeme vám za účasť na prezentácii o botoch. Chcel by som vás požiadať o váš názor na prezentáciu môjho Stvoriteľa. (V prípade, že sa budete chcieť vrátiť na predchádzajúcu otázku, stačí zadať "späť")</value>
+  </data>
+  <data name="HowInterestingContent_terms;LIST" xml:space="preserve">
+    <value> zaujímave?; zaujimave;</value>
+  </data>
+  <data name="Satisfaction.Poor;LIST" xml:space="preserve">
+    <value>Poors?</value>
+  </data>
+  <data name="Satisfaction.NeedsImprovement;LIST" xml:space="preserve">
+    <value>potrebuje?;zlepsenie?;zlepšenie</value>
+  </data>
+  <data name="Satisfaction.Satisfactory;LIST" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Satisfaction.VeryGood;LIST" xml:space="preserve">
+    <value>dobre;dobré</value>
+  </data>
+  <data name="Satisfaction.Exceptional;LIST" xml:space="preserve">
+    <value>výborné;vyborne;</value>
+  </data>
+  <data name="SpaceForImplementing_terms;LIST" xml:space="preserve">
+    <value />
+  </data>
+  <data name="YesNo.Yes;LIST" xml:space="preserve">
+    <value>áno?;ano</value>
+  </data>
+  <data name="YesNo.No;LIST" xml:space="preserve">
+    <value>nie</value>
+  </data>
+  <data name="message3;LIST" xml:space="preserve">
+    <value>Úžasné! Vyzerá to, že v budúcnosti nás bude viac.</value>
+  </data>
+  <data name="ExplainTopic_terms;LIST" xml:space="preserve">
+    <value>vysvetľuje?; témy?; vysvetľuje? témy?</value>
+  </data>
+  <data name="message5;LIST" xml:space="preserve">
+    <value>To je nedobré. Neskôr bude zdieľať prepojenie s vami tam, kde môžete nájsť nejaké ďalšie informácie.</value>
+  </data>
+  <data name="PresentingSkills_terms;LIST" xml:space="preserve">
+    <value>prezentacne zrucnosti; zručnosti</value>
+  </data>
+  <data name="message7;LIST" xml:space="preserve">
+    <value>Prosím, v neskoršom kroku poskytnite spätnú väzbu, čo by sa malo zlepšiť.</value>
+  </data>
+  <data name="PresentationGeneral_terms;LIST" xml:space="preserve">
+    <value />
+  </data>
+  <data name="MostInteresting_terms;LIST" xml:space="preserve">
+    <value />
+  </data>
+  <data name="MostInteresting_promptDefinition;LIST" xml:space="preserve">
+    <value>Čo bola pre vás najzaujímavejšie časť prezentácie? </value>
+  </data>
+  <data name="SpaceForImpr_terms;LIST" xml:space="preserve">
+    <value />
+  </data>
+  <data name="SpaceForImpr_promptDefinition;LIST" xml:space="preserve">
+    <value>Kde vidíte priestor na zlepšenie (obsah a prezentačné zručnosti)?</value>
+  </data>
+  <data name="EnumSelectOne;HowInterestingContent;SpaceForImplementing;ExplainTopic;PresentingSkills;PresentationGeneral;MostInteresting;SpaceForImpr;TEMPLATE" xml:space="preserve">
+    <value>{&amp;} {||}</value>
+  </data>
+  <data name="NotUnderstood;HowInterestingContent;SpaceForImplementing;ExplainTopic;PresentingSkills;PresentationGeneral;MostInteresting;SpaceForImpr;TEMPLATE" xml:space="preserve">
+    <value>Nerozumiem odpovedi "{0}".</value>
+  </data>
+</root>

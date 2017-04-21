@@ -1,0 +1,9 @@
+*.suo
+*.user
+_ReSharper.*
+bin
+obj
+packages
+/EvaluationBot/Web - Copy.config
+/EvaluationBot/Web.Debug.config
+/EvaluationBot/Web.Release.config

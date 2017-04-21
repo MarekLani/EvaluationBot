@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en" target-language="sk" original="SMARTOFFICE.BOT/RESOURCES/SMARTOFFICE.BOT.FORMS.FEEDBACKFORM.RESX" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6799.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="EVALUATIONBOT/RESOURCES/SMARTOFFICE.BOT.FORMS.FEEDBACKFORM.RESX">
+        <trans-unit id="HowInterestingContent_description;VALUE" translate="yes" xml:space="preserve">
+          <source>Nakoľko záujímavý bol pre vás prezentovaný obsah?</source>
+          <target state="new">Nakoľko záujímavý bol pre vás prezentovaný obsah?</target>
+        </trans-unit>
+        <trans-unit id="Satisfaction.Poor;VALUE" translate="yes" xml:space="preserve">
+          <source>Slabé</source>
+          <target state="new">Slabé</target>
+        </trans-unit>
+        <trans-unit id="Satisfaction.NeedsImprovement;VALUE" translate="yes" xml:space="preserve">
+          <source>Je potrebné zlepšiť</source>
+          <target state="new">Je potrebné zlepšiť</target>
+        </trans-unit>
+        <trans-unit id="Satisfaction.Satisfactory;VALUE" translate="yes" xml:space="preserve">
+          <source>Uspokojivé</source>
+          <target state="new">Uspokojivé</target>
+        </trans-unit>
+        <trans-unit id="Satisfaction.VeryGood;VALUE" translate="yes" xml:space="preserve">
+          <source>Dobré</source>
+          <target state="new">Dobré</target>
+        </trans-unit>
+        <trans-unit id="Satisfaction.Exceptional;VALUE" translate="yes" xml:space="preserve">
+          <source>Veľmi dobré</source>
+          <target state="new">Veľmi dobré</target>
+        </trans-unit>
+        <trans-unit id="SpaceForImplementing_description;VALUE" translate="yes" xml:space="preserve">
+          <source>Vidíte reálny priestor a scenáre pre využitie botov v rámci trhu, na ktorom sa pohybujete?</source>
+          <target state="new">Vidíte reálny priestor a scenáre pre využitie botov v rámci trhu, na ktorom sa pohybujete?</target>
+        </trans-unit>
+        <trans-unit id="YesNo.Yes;VALUE" translate="yes" xml:space="preserve">
+          <source>Áno</source>
+          <target state="new">Áno</target>
+        </trans-unit>
+        <trans-unit id="YesNo.No;VALUE" translate="yes" xml:space="preserve">
+          <source>Nie</source>
+          <target state="new">Nie</target>
+        </trans-unit>
+        <trans-unit id="ExplainTopic_description;VALUE" translate="yes" xml:space="preserve">
+          <source>Ako hodnotíte schopnosť prednášajúceho vysvetliť tému?</source>
+          <target state="new">Ako hodnotíte schopnosť prednášajúceho vysvetliť tému?</target>
+        </trans-unit>
+        <trans-unit id="PresentingSkills_description;VALUE" translate="yes" xml:space="preserve">
+          <source>Ako hodnotíte prezentačné zručnosti pred?</source>
+          <target state="new">Ako hodnotíte prezentačné zručnosti pred?</target>
+        </trans-unit>
+        <trans-unit id="PresentationGeneral_description;VALUE" translate="yes" xml:space="preserve">
+          <source>Ako hodnotíte prezentáciu vo všeobecnosti?</source>
+          <target state="new">Ako hodnotíte prezentáciu vo všeobecnosti?</target>
+        </trans-unit>
+        <trans-unit id="MostInteresting_description;VALUE" translate="yes" xml:space="preserve">
+          <source>Čo bola pre vás najzaujímavejšia časť prezentácie?</source>
+          <target state="new">Čo bola pre vás najzaujímavejšia časť prezentácie?</target>
+        </trans-unit>
+        <trans-unit id="SpaceForImpr_description;VALUE" translate="yes" xml:space="preserve">
+          <source>Kde vidíte priestor pre zlepšenie:</source>
+          <target state="new">Kde vidíte priestor pre zlepšenie:</target>
+        </trans-unit>
+        <trans-unit id="message0;LIST" translate="yes" xml:space="preserve">
+          <source>Dobrý deň, Ďakujeme vám za účasť na prezentácii o botoch. Chcel by som vás požiadať o váš názor na prezentáciu môjho Stvoriteľa. (V prípade, že sa budete chcieť vrátiť na predchádzajúcu otázku, stačí zadať "späť")</source>
+          <target state="new">Dobrý deň, Ďakujeme vám za účasť na prezentácii o botoch. Chcel by som vás požiadať o váš názor na prezentáciu môjho Stvoriteľa. (V prípade, že sa budete chcieť vrátiť na predchádzajúcu otázku, stačí zadať "späť")</target>
+        </trans-unit>
+        <trans-unit id="HowInterestingContent_terms;LIST" translate="yes" xml:space="preserve">
+          <source> zaujímave?; zaujimave;</source>
+          <target state="new"> zaujímave?; zaujimave;</target>
+        </trans-unit>
+        <trans-unit id="Satisfaction.Poor;LIST" translate="yes" xml:space="preserve">
+          <source>Poors?</source>
+          <target state="new">Poors?</target>
+        </trans-unit>
+        <trans-unit id="Satisfaction.NeedsImprovement;LIST" translate="yes" xml:space="preserve">
+          <source>potrebuje?;zlepsenie?;zlepšenie</source>
+          <target state="new">potrebuje?;zlepsenie?;zlepšenie</target>
+        </trans-unit>
+        <trans-unit id="Satisfaction.Satisfactory;LIST" translate="yes" xml:space="preserve">
+          <source>satisfactorys?</source>
+          <target state="new">satisfactorys?</target>
+        </trans-unit>
+        <trans-unit id="Satisfaction.VeryGood;LIST" translate="yes" xml:space="preserve">
+          <source>dobre;dobré</source>
+          <target state="new">dobre;dobré</target>
+        </trans-unit>
+        <trans-unit id="Satisfaction.Exceptional;LIST" translate="yes" xml:space="preserve">
+          <source>výborné;vyborne;</source>
+          <target state="new">výborné;vyborne;</target>
+        </trans-unit>
+        <trans-unit id="SpaceForImplementing_terms;LIST" translate="yes" xml:space="preserve">
+          <source></source>
+          <target state="new"></target>
+        </trans-unit>
+        <trans-unit id="YesNo.Yes;LIST" translate="yes" xml:space="preserve">
+          <source>áno?;ano</source>
+          <target state="new">áno?;ano</target>
+        </trans-unit>
+        <trans-unit id="YesNo.No;LIST" translate="yes" xml:space="preserve">
+          <source>nie</source>
+          <target state="new">nie</target>
+        </trans-unit>
+        <trans-unit id="message3;LIST" translate="yes" xml:space="preserve">
+          <source>Úžasné! Vyzerá to, že v budúcnosti nás bude viac.</source>
+          <target state="new">Úžasné! Vyzerá to, že v budúcnosti nás bude viac.</target>
+        </trans-unit>
+        <trans-unit id="ExplainTopic_terms;LIST" translate="yes" xml:space="preserve">
+          <source>vysvetľuje?; témy?; vysvetľuje? témy?</source>
+          <target state="new">vysvetľuje?; témy?; vysvetľuje? témy?</target>
+        </trans-unit>
+        <trans-unit id="message5;LIST" translate="yes" xml:space="preserve">
+          <source>To je nedobré. Neskôr bude zdieľať prepojenie s vami tam, kde môžete nájsť nejaké ďalšie informácie.</source>
+          <target state="new">To je nedobré. Neskôr bude zdieľať prepojenie s vami tam, kde môžete nájsť nejaké ďalšie informácie.</target>
+        </trans-unit>
+        <trans-unit id="PresentingSkills_terms;LIST" translate="yes" xml:space="preserve">
+          <source>prezentacne zrucnosti; zručnosti</source>
+          <target state="new">prezentacne zrucnosti; zručnosti</target>
+        </trans-unit>
+        <trans-unit id="message7;LIST" translate="yes" xml:space="preserve">
+          <source>Prosím, v neskoršom kroku poskytnite spätnú väzbu, čo by sa malo zlepšiť.</source>
+          <target state="new">Prosím, v neskoršom kroku poskytnite spätnú väzbu, čo by sa malo zlepšiť.</target>
+        </trans-unit>
+        <trans-unit id="PresentationGeneral_terms;LIST" translate="yes" xml:space="preserve">
+          <source></source>
+          <target state="new"></target>
+        </trans-unit>
+        <trans-unit id="MostInteresting_terms;LIST" translate="yes" xml:space="preserve">
+          <source></source>
+          <target state="new"></target>
+        </trans-unit>
+        <trans-unit id="MostInteresting_promptDefinition;LIST" translate="yes" xml:space="preserve">
+          <source>Čo bola pre vás najzaujímavejšie časť prezentácie? </source>
+          <target state="new">Čo bola pre vás najzaujímavejšie časť prezentácie? </target>
+        </trans-unit>
+        <trans-unit id="SpaceForImpr_terms;LIST" translate="yes" xml:space="preserve">
+          <source></source>
+          <target state="new"></target>
+        </trans-unit>
+        <trans-unit id="SpaceForImpr_promptDefinition;LIST" translate="yes" xml:space="preserve">
+          <source>Kde vidíte priestor na zlepšenie (obsah a prezentačné zručnosti)?</source>
+          <target state="new">Kde vidíte priestor na zlepšenie (obsah a prezentačné zručnosti)?</target>
+        </trans-unit>
+        <trans-unit id="EnumSelectOne;HowInterestingContent;SpaceForImplementing;ExplainTopic;PresentingSkills;PresentationGeneral;MostInteresting;SpaceForImpr;TEMPLATE" translate="yes" xml:space="preserve">
+          <source>{&amp;} {||}</source>
+          <target state="new">{&amp;} {||}</target>
+        </trans-unit>
+        <trans-unit id="NotUnderstood;HowInterestingContent;SpaceForImplementing;ExplainTopic;PresentingSkills;PresentationGeneral;MostInteresting;SpaceForImpr;TEMPLATE" translate="yes" xml:space="preserve">
+          <source>Nerozumiem odpovedi "{0}".</source>
+          <target state="new">Nerozumiem odpovedi "{0}".</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
